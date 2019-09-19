@@ -1,6 +1,6 @@
 ## Welcome to OnionBlock
 
-You can read Blockchain articles to get blockchain knowledge deeper in our websites.
+You can read Blockchain articles to know blockchain deeper in our websites.
 
 ### What's Next
 
